@@ -7,7 +7,7 @@ This project is the 'Community Edition' of jsPlumb. The 'Toolkit Edition' is a c
 
 **This project is not the correct place to report issues for the Toolkit edition**. The Toolkit is not a public project.
 Issues reported for the Toolkit edition in this issue tracker will be deleted.
-
+#updating files for more logical
 
 ## Packages
 
